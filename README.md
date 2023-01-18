@@ -1,6 +1,6 @@
 # Competitive Programming Progress
 
-- This repo highlights and tracks the problems solved from the CP plaform: codeforces.
+- This repo highlights and tracks the problems solved from the CP plaform: codeforces solved during Women Algo Crew's focus sessions.
 
 <hr />
 
